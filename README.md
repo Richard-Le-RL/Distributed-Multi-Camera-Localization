@@ -21,6 +21,7 @@ hw/sw requirements
 Team Member Responsibilities
 - Richard Le: Setup, Software, Research, Algorithm Design
 - Arthur Nguyen: Setup, Software, Research, Algorithm Design
+- Milo Loyall: Setup, Software, Research, Algorithm Design
 
 Project Timeline: 
 - Week 1: Research
